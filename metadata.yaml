@@ -1,5 +1,5 @@
 _repo: The-Ordeal-of-Richard-Feverel-Volume-2_4407
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Fathers and sons -- Fiction'
 - !lcsh 'English fiction -- 19th century'
 - !lcsh 'England -- Fiction'
+- GITenberg
 title: The Ordeal of Richard Feverel — Volume 2
 url: http://www.gutenberg.org/ebooks/4407
